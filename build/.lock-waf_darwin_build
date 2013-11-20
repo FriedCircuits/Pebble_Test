@@ -1,0 +1,8 @@
+argv = ['/Users/william/pebble-dev/PebbleSDK-2.0-BETA2/Pebble/waf', 'configure', 'build']
+environ = {'TERM_SESSION_ID': 'A1B54B87-58EC-4BEC-AE66-C0AD9BCE7A52', 'SSH_AUTH_SOCK': '/tmp/launch-p1VbdX/Listeners', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'TERM_PROGRAM_VERSION': '326', 'SHELL': '/bin/bash', 'LOGNAME': 'william', 'USER': 'william', 'HOME': '/Users/william', 'PATH': '/Users/william/pebble-dev/PebbleSDK-2.0-BETA2/arm-cs-tools/bin:/Users/william/pebble-dev/PebbleSDK-2.0-BETA2/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin', 'TMPDIR': '/var/folders/bm/90jjk_qd2y91l7sscl9llc380000gn/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'en_US.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-wsqBYg/Render', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '2', '__CF_USER_TEXT_ENCODING': '0x1F5:0:0', 'PWD': '/Users/william/pebble-dev/pebble_ros', '_': '/Users/william/pebble-dev/PebbleSDK-2.0-BETA2/Pebble/waf', '__CHECKFIX1436934': '1'}
+files = ['/Users/william/pebble-dev/pebble_ros/wscript']
+hash = 4672844372416070989
+options = {'files': '', 'jobs': 8, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/william/pebble-dev/pebble_ros/build'
+run_dir = '/Users/william/pebble-dev/pebble_ros'
+top_dir = '/Users/william/pebble-dev/pebble_ros'

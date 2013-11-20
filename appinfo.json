@@ -1,0 +1,17 @@
+{
+  "uuid": "6f9178c9-5d00-4de9-bb3b-1fc62d8627b9",
+  "shortName": "Pebble Ros",
+  "longName": "Pebble ROS",
+  "companyName": "FriedCircuits",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "LED_STATUS": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
